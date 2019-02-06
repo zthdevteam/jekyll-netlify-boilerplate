@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: News
+title: News (page under construction)
 permalink: /news
 section: news
 intro_paragraph: >-
