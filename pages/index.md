@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome!
+title: Welcome!  (page under construction)
 permalink: /
 section: home
 intro_paragraph: >-
