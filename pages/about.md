@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rates
+title: Rates (page under construction)
 permalink: /rates
 section: rates
 intro_paragraph: >-
