@@ -18,7 +18,7 @@ email: zac@zacstechhelp.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tech solutions, training and support for Senior Citizens and Small Businesses in Centre County, PA
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
-url: "https://zacstechhelp.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Permalink format (/blog/ is ignored for pages)
 permalink: /blog/:title
