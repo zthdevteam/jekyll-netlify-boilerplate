@@ -1,11 +1,11 @@
 ---
 layout: blog
-title: The Blog
+title: News
 permalink: /blog
 section: blog
-intro_paragraph: >
-  This is the Blog index page, listing each post with an
-  automatically generated post excerpt. It's a normal Jekyll page but uses
-  the `_layouts/blog.html` template to output the blog's posts after the page
-  content.
+intro_paragraph: >-
+  Zac's Tech Help is brand new! Zac has got exciting ideas about how to do
+  business and you can follow along in this adventure. Click an article below to
+  find out exciting developments.
 ---
+
